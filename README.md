@@ -24,8 +24,7 @@ https://github.com/GVLTodorov/kendo/blob/master/src/components/widget/wrapper.js
 
 ## Result:
 #Two buttons diffrent designs.
-https://pasteboard.co/JkYec2g.png
-https://pasteboard.co/JkYeI1d.png
+
 
 ## Desktop View
 https://pasteboard.co/JkYppGU.png
