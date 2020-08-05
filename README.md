@@ -11,10 +11,10 @@ https://bootstrap.build/app or https://github.com/paulwolf7/bootstrap-eclipse
 
 ## Custom Kendo and Boostrap themes
 
-## Kendo Specify which components do you want.
+## Kendo specify components.
 https://github.com/GVLTodorov/kendo/blob/master/src/components/kendoTheme/customTheme.css
 
-## Boostrap Specify which components do you want.
+## Boostrap specify components.
 https://github.com/GVLTodorov/kendo/blob/master/src/components/bootstrapTheme/customTheme.scss
 
 ## combined
