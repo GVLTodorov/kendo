@@ -26,7 +26,7 @@ https://github.com/GVLTodorov/kendo/blob/master/src/components/widget/wrapper.js
 
 #Two buttons diffrent designs.
 
-![img](https://github.com/GVLTodorov/kendo/blob/master/images/063c5107-b6d1-440c-b3d5-5da2909879a5.png)
+![img](https://github.com/GVLTodorov/kendo/blob/master/images/063c5107-b6d1-440c-b3d5-5da2909879a6.png)
 
 ## Desktop View
 ![img](https://github.com/GVLTodorov/kendo/blob/master/images/8b165bc1-4d46-4a59-b424-2fa607793704.png)
