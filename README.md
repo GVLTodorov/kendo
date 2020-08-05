@@ -19,7 +19,7 @@ https://github.com/GVLTodorov/kendo/blob/master/src/components/bootstrapTheme/cu
 ## Combined Theme
 https://github.com/GVLTodorov/kendo/blob/master/src/components/theme/custom.scss
 
-### desktop and mobile view speicified by device (optimization)
+### desktop and mobile view (optimization)
 https://github.com/GVLTodorov/kendo/blob/master/src/components/widget/wrapper.js
 
 ## Result:
