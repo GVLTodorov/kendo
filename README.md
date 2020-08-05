@@ -23,12 +23,14 @@ https://github.com/GVLTodorov/kendo/blob/master/src/components/theme/custom.scss
 https://github.com/GVLTodorov/kendo/blob/master/src/components/widget/wrapper.js
 
 ## Result:
+
 #Two buttons diffrent designs.
 
+![img](https://github.com/GVLTodorov/kendo/blob/master/images/063c5107-b6d1-440c-b3d5-5da2909879a5.png)
 
 ## Desktop View
-https://pasteboard.co/JkYppGU.png
+![img](https://github.com/GVLTodorov/kendo/blob/master/images/8b165bc1-4d46-4a59-b424-2fa607793704.png)
 
 ## Mobile View
-https://pasteboard.co/JkYpFbD.png
+![img](https://github.com/GVLTodorov/kendo/blob/master/images/9d6619d4-e07b-4c87-875c-fa3cdbfc9006.png)
 
