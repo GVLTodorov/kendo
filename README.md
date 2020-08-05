@@ -23,12 +23,12 @@ https://github.com/GVLTodorov/kendo/blob/master/src/components/theme/custom.scss
 https://github.com/GVLTodorov/kendo/blob/master/src/components/widget/wrapper.js
 
 ## Result:
-#Two custom buttons first one kendo and second one boostrap button
-https://pasteboard.co/JkYec2g.png
-https://pasteboard.co/JkYeI1d.png
+#Two buttons diffrent designs.
+
 
 ## Desktop View
+https://pasteboard.co/JkYppGU.png
 
 ## Mobile View
-
+https://pasteboard.co/JkYpFbD.png
 
