@@ -2,7 +2,7 @@ import React from 'react';
 import { Button } from 'react-bootstrap';
 
 function BootstrapButton() {
-  return <Button variant="warning">My Button with Bootstrap styles</Button>;
+  return <Button variant="warning">Bootstrap style</Button>;
 }
 
 export default BootstrapButton;

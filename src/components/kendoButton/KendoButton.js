@@ -4,7 +4,7 @@ import { Button } from '@progress/kendo-react-buttons';
 function KendoButton() {
   return (
     <Button icon="folder" primary={true} look="flat">
-      My Button with KendoReact styles
+      KendoReact style
     </Button>
   );
 }
